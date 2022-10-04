@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelinebrgs
 - 👀 I’m interested in code and video games
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning html/css/js/php
 - 💞️ I’m looking to collaborate on different project
 - 📫 If you want to contact me add me on discord 𝓐𝓷𝓰𝓮𝓵𝓲𝓷𝓮#6536
 
